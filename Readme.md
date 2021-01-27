@@ -4,4 +4,6 @@ Web Scrapping - valuable tool for gathering data
 
 Python Webscrapper using BeautifulSoup and Requests Library
 
-CORONA WORLD DATA
+ - CORONA WORLD DATA
+ 
+ - List of deadly earthquakes since 1900
